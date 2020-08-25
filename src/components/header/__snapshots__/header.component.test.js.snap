@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component tests should match snapshot 1`] = `
+<header
+  className="App-header"
+>
+  <Navbar
+    bg="primary"
+    collapseOnSelect={false}
+    expand={true}
+    variant="dark"
+  >
+    <NavbarBrand
+      href="#home"
+    >
+      OnTrack Retail
+    </NavbarBrand>
+    <Form
+      className="ml-auto"
+      inline={true}
+    >
+      <FormControl
+        className="mr-sm-2"
+        onChange={[Function]}
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+    </Form>
+  </Navbar>
+</header>
+`;
