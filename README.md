@@ -22,13 +22,7 @@ NOTE: Created a master branch with just readme file and pushed the code to devel
 
 Which will open the home page and it has above functionalities implemented
 
-3. Running Unit Tests
-
-### `npm test`
-
-I have written unit tests using Jest and enzyme
-
-4. Production build
+3. Production build
 
 ### `npm run build`
 
