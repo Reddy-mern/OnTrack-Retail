@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Component Tests should match snapshot 1`] = `
+<Card
+  body={false}
+>
+  <CardBody>
+    <CardTitle>
+      test
+    </CardTitle>
+    <CardSubtitle
+      className="mb-2 text-muted"
+    >
+      test book
+    </CardSubtitle>
+    <CardText>
+      london
+    </CardText>
+  </CardBody>
+</Card>
+`;
